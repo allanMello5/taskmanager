@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "text": "shopping with sis",
+      "day": "thuersday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "iiuiuii",
+      "day": "5566",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Cinema ",
+      "day": "Segunda-Feira",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Cinema ",
+      "day": "Teça feira",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Zoologico",
+      "day": "segunda-feira",
+      "reminder": true,
+      "id": 7
+    }
+  ]
+}
